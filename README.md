@@ -10,7 +10,7 @@ This is a simple Python script for scanning open ports on a given target. It uti
 # Clone the repository:
 
 
-   git clone https://github.com/your-username/port-scanner.git
+   git clone https://github.com/Anubhacksaw/Port-Hunter.git
 
 
 # Navigate to the project directory:
