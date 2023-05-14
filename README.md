@@ -26,7 +26,7 @@ This is a simple Python script for scanning open ports on a given target. It uti
    
    python port_scanner.py -t <target>
    
-   Replace `<target>` with the IP address or domain name of the target to scan.
+   Replace <target> with the IP address or domain name of the target to scan.
 
    Optionally, specify the starting and ending ports to scan. If not provided, the scanner will scan ports 0 to 65535.
 
